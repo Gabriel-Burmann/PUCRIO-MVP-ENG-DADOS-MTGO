@@ -35,7 +35,7 @@ Detalhes de escopo, licença e tratamento de cada fonte estão documentados no r
 
 ## Documentação completa
 
-O relatório completo — contexto, coleta, modelagem, catálogo de dados, qualidade de dados e análise, com evidências de execução — está disponível em [`MVP_MTGO_Documentacao.docx`](./MVP_MTGO_Documentacao.docx).
+O relatório completo — contexto, coleta, modelagem, catálogo de dados, qualidade de dados e análise, com evidências de execução — está disponível em [`MVP_MTGO_Documentacao.docx`](./MVP_MTGO_Documentacao.pdf).
 
 ## Tecnologias
 
